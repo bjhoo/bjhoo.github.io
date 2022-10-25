@@ -5,7 +5,7 @@ portfolio.run(["$rootScope","$location","$window","$timeout",
                function(a){
                  a.org=[
                    {id:1,img:"images/ignore/MS_HMILabs.png",header:"HMI Delivery",description:"During the 'year I'm not doing powerpoint' I presented a Microsoft Paint presentation on the internal process and expected outcomes of the Human-Machine Interface Labs group.",html:'<a href="documents/MS_HMILabs.png" class="btn btn-block"><i class="fa fa-external-link-square"></i> PNG</a>'},
-                   {id:2,img:"images/ignore/Org_Design_Ops.png",header:"Mult-team Operations",description:"Establishing enterprise initiative focused on how we deliver a unified experience with multiple teams focused on journeys and outcomes. ",html:'<a href="documents/Org_Design_Ops.pdf" class="btn btn-block"><i class="fa fa-external-link-square"></i> PDF</a>'}
+                   {id:2,img:"images/ignore/Org_Design_Ops_snip.png",header:"Mult-team Operations",description:"Establishing enterprise initiative focused on how we deliver a unified experience with multiple teams focused on journeys and outcomes. ",html:'<a href="documents/Org_Design_Ops.pdf" class="btn btn-block"><i class="fa fa-external-link-square"></i> PDF</a>'}
                  ],
                  a.ux=[
                    {id:1,img:"images/ignore/LSC_LO.png",header:"Prototype",description:"Building out a new internal tool for our Allstate agents, this project followed the contextual inqury process. Collecting data, building wireframes, iterating on prototypes. ",html:'<a href="documents/Lo-Res_Wireframes.pdf" class="btn btn-block"><i class="fa fa-external-link-square"></i> PDF</a>'},
